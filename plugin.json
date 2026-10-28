@@ -1,0 +1,11 @@
+{
+  "name": "BoundingBox",
+  "version": "0.3.0",
+  "contactEmailAddress": "m0dii@m0dii-dev.xyz",
+  "requiredDependencies": { "prettyui": 6398181 },
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": [],
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": true
+}
