@@ -89,7 +89,6 @@ support address in the packaged manifest. The archive includes the license.
 
 Licensed under [GNU GPLv3](LICENSE), as provided by this repository's existing
 license. PrettyUI is a separate dependency and is not bundled or reimplemented.
-No QuestHelper source is included.
 
 Source and issues: [M0diis/RS3-BoundingBox](https://github.com/M0diis/RS3-BoundingBox).
 
